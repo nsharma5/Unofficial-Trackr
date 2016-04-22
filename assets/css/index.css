@@ -1,0 +1,36 @@
+/* All CSS attributes go here! */
+
+html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+      #table{
+        background-color: #828282;
+        z-index: 10;
+        position: absolute;
+        right: 15px;
+        top:100px;
+        height: 200px;
+        width: 200px;
+        box-shadow:  5px 5px 3px black;
+        font-family: 'Calibri';
+        color: white;
+        padding-left: 10px;
+      }
+      .drop{
+        margin-left: 50px;
+      }
+
+      .drop, .drop1{
+        margin-top: 10px;
+      }
+
+      .drop2{
+        margin-left: 65px;
+        margin-top: 5px; 
+        margin-bottom: 10px;
+      }
